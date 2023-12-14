@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Preview](./assets/screenshot/flyo-desktop.jpeg)
-![Mobile Preview](./assets/screenshot/flyo-mobile.jpeg)
+![Desktop Preview](./screenshot/flyo-desktop.jpeg)
+![Mobile Preview](./screenshot/flyo-mobile.jpeg)
 
 ### Links
 
