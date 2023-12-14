@@ -1,4 +1,4 @@
-// import Button from "../components/Button";
+import Button from "../components/button";
 
 const Hero = () => {
   return (
@@ -14,7 +14,7 @@ const Hero = () => {
         Access them wherever you need, share and collaborate with friends,
         family and co-workers.
       </p>
-      {/* <Button title="Get Started" className="my-10" /> */}
+      <Button title="Get Started" className="my-10" />
     </section>
   );
 };

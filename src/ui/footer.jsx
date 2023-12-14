@@ -1,5 +1,5 @@
 import { FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
-// import Button from "../components/Button";
+import Button from "../components/button";
 
 const Footer = () => {
   return (
@@ -21,7 +21,7 @@ const Footer = () => {
               placeholder="email@example.com"
               className="px-8 py-4 text-black rounded-full lg:flex-1"
             />
-            {/* <Button title="Get Started For Free" className="px-8" /> */}
+            <Button title="Get Started For Free" className="px-8" />
           </div>
         </div>
       </div>
