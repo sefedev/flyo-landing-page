@@ -111,5 +111,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8531a3f0-e941-40d5-a61e-5b2f7713eab2/deploy-status)](https://app.netlify.com/sites/sefe-flyo-landing-page/deploys)
