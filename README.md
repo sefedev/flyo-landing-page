@@ -50,5 +50,5 @@ Would likely Add the SVG Image to the Background
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/omosefe2020)
-- Twitter - [@yourusername](https://www.twitter.com/sephiano1)
+- Frontend Mentor - [@omosefe2020](https://www.frontendmentor.io/profile/omosefe2020)
+- Twitter - [@sephiano1](https://www.twitter.com/sephiano1)
